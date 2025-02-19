@@ -3,6 +3,8 @@ public class class05 {
 
 
         System.out.println("Hello World");
-        System.out.println("This is Commit 1");
+        System.out.println("Hello World");
+        System.out.println("Hello World");
+        System.out.println("This is version 2");
     }
 }
